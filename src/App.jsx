@@ -53,7 +53,7 @@ function App() {
           </div>
 
           {/* First Line */}
-          <p className="text-5xl font-light">Feature packed to Make</p>
+          <p className="text-4xl font-light">Feature packed to Make</p>
 
           {/* Borders (Shifted Further Left & Right) */}
           <div className="relative flex items-center w-full justify-center mt-1">
@@ -62,7 +62,7 @@ function App() {
           </div>
 
           {/* Second Line */}
-          <p className="text-5xl mt-2 bg-gradient-to-b from-[#8096D2] to-[#b7b9be] bg-clip-text text-transparent font-light leading-tight">
+          <p className="text-4xl mt-2 bg-gradient-to-b from-[#8096D2] to-[#b7b9be] bg-clip-text text-transparent font-light leading-tight">
             Digital marketing easier and affordable
           </p>
 

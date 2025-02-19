@@ -3,7 +3,7 @@
 This project is a **React + Vite** implementation of a given task, designed according to the Figma design and animation requirements provided by **AdTask.ai**. The project is styled using **Tailwind CSS** and animated using **Framer Motion and CSS keyframes**. The deployed version is hosted on **Vercel**.
 
 ## 🚀 Live Demo
-You can check out the deployed version here: **[Live Project on Vercel](https://your-vercel-deployment-link.vercel.app/)**
+You can check out the deployed version here: **[Live Project on Vercel](https://ad-task-ai-assignment-pi.vercel.app/)**
 
 ## 📌 Features
 - **Smooth Animations**: Implemented with **Framer Motion** for entry animations.
